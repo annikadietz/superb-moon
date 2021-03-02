@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Somewhere beautiful
 seo:
   title: ''
   description: ''
